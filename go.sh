@@ -4,4 +4,4 @@
 xxd -i starter.bin > starter.h
 gcc -Wall -o atrdd2car atrdd2car.c
 
-./atrdd2car DOS.atr DOS.car -c
+./atrdd2car Test.atr Test.car -c
